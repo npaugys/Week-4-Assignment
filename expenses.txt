@@ -1,0 +1,3 @@
+2026-09-19,Rent,1500.0,Necessities
+2026-09-19,Wal-Mart,184.57,Food
+2026-09-19,Grocery shopping in preparatio,320.43,Food
